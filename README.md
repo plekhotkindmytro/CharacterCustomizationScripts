@@ -10,4 +10,5 @@
 - Pixels Per Unit: 64
 - Filter Mode: Point(no filter)
 - Compression: None 
-
+![alt text](https://github.com/plekhotkindmytro/CharacterCustomizationScripts/blob/main/Screenshot%202023-11-28%20220524.png)
+![alt text](https://github.com/plekhotkindmytro/CharacterCustomizationScripts/blob/main/Screenshot%202023-11-28%20220823.png)
